@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color: rgb(9, 0, 108);
+    background-color: rgb(211, 212, 255);
+    margin: 0px;
+    padding: 25px;
+}
+
+.email{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.fullname, .age, .education, .study, .exp, .admit, .program, .country, .goals, .listening, .reading, .speaking, .writing, .fees, .gicpay{
+  text-align: center;
+}
+
+.institution{
+  text-align: center;
+}
+
+.experience{
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.example-full-width {
+  width: 50%;
+}
+
+.example-radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}
+
+.example-radio-button {
+  margin: 5px;
+}
+
+.pay, .gic{
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.example-radio-group-one {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}
+
+.example-radio-button-one {
+  margin: 5px;
+}
+
+.example-button-row{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.error{
+  font-size: 13px;
+}
